@@ -12,4 +12,4 @@ $_lang['blox.blox.includes'] = 'Comma separated list of class filenames. Each fi
 $_lang['blox.blox.packagename'] = 'Package name of the xPDO model to retreive the data.';
 $_lang['blox.blox.project'] = '';
 $_lang['blox.blox.task'] = '';
-$_lang['blox.blox.where'] = 'JSON encoded xPDO where clause the data is retreived with.';
+$_lang['blox.blox.where'] = 'JSON-encoded xPDO where clause the data is retreived with.';
